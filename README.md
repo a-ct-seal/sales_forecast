@@ -1,7 +1,7 @@
 # sales_forecast
 Research work: Sales forecast of a point of sale in the village of Pribrezhny, Yaroslavl region, Russia
 
-A part of this research work is analysing data on sales of a retail outlet located in the Yaroslavl region, Russia. Superfluous information was removed, several signs were highlighted, graphs of the dependence of the target variable (number of sales) on these signs were constructed. Then several models were trained: kNN, linear regression, random forest, gradient boosting (the best hyperparameters were selected for each), after which they were compared. This part of the work can be seen in the files analytics.ipynb and model_fitting.ipynb.
+A part of this research work is analysing data on sales of a retail outlet located in the Yaroslavl region, Russia. Superfluous information was removed, several signs were highlighted, graphs of the dependence of the target variable (number of sales) on these signs were constructed. Then several models were trained (the best hyperparameters were selected for each), after which they were compared. This part of the work can be seen in the files analytics.ipynb and model_fitting.ipynb.
 |Model|MSE|MAE|
 |-|-|-|
 |Linear regression|21.918|2.678|
