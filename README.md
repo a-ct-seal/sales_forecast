@@ -14,4 +14,5 @@ A part of this research work is analysing data on sales of a retail outlet locat
 |Boosting(CatBoostRegressor)|15.908|2.202|
 |Boosting & random forest|15.669|2.117|
 |Boosting & kNN|15.615|2.082
+
 The best model turned out to be the blending of boosting from the CatBoost library and knn from sklearn. Further, as an addition, a GUI was implemented for this model using the tkinter library. The GUI code is presented in the prediction_model.py and gui.py files.
